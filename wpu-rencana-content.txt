@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 -JavaSrcript
 *E56
 *Frameworks Javascript
--struktur data
+^Angular
+^react
 -PHP Frameworks
+^laravel
 -Intervie
 -Vlogs
