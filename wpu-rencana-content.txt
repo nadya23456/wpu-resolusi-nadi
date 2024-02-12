@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 -JavaSrcript
 *E56
 *Frameworks Javascript
--struktur data
+^vue
+^react
+-struktur data dasar
 -PHP Frameworks
+^laravel
 -Intervie
 -Vlogs
+-python
