@@ -4,8 +4,10 @@ RENCANA KONTEN WPU
 *E56
 *Frameworks Javascript
 ^vue
+^react
 -struktur data dasar
 -PHP Frameworks
+^laravel
 -Intervie
 -Vlogs
 -python
