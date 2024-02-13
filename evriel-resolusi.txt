@@ -1,0 +1,5 @@
+Halo Nae,Nama Saya Evriel dari Sukabumi
+
+Resolusi saya :
+- Membuat game menggunakan Construct
+- Bekerja di Start Up
